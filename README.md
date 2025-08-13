@@ -130,7 +130,7 @@ Examples include:
 
 ---
 
-## 🖼️ Dashboard Screenshot (Optional)
+## 🖼️ Dashboard Screenshot
 
 ![image](streamlitSS.png)
 
